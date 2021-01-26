@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".LoginResultActivity">  //Activity 사용하려면 반드시 선언
+
+        </activity>
     </application>
 
 </manifest>
